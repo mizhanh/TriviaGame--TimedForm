@@ -1,0 +1,23 @@
+body {
+	text-align: center;
+	background-image: url(../images/background.jpg);
+}
+
+#container {
+	background-color: #fffacd;
+	color: #0000ff;
+	width: 960px;
+	box-sizing: border-box;
+	margin: 5% auto;
+	min-height: 80%;
+}
+
+
+h1 {
+	color: #0000ff;;
+}
+
+input[type="radio"]{
+  margin: 0 5px 0 20px;
+}
+
